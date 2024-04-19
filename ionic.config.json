@@ -1,0 +1,7 @@
+{
+  "name": "Get_Coordenadas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
